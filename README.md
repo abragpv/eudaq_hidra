@@ -1,6 +1,6 @@
 ```
 
-git clone https://github.com/abragpvv/eudaq_hidra.git
+git clone https://github.com/abragpv/eudaq_hidra.git
 mkdir eudaq_hidra/build
 cd eudaq_hidra/build
 cmake -D EUDAQ_BUILD_ONLINE_ROOT_MONITOR=ON -D EUDAQ_LIBRARY_BUILD_TTREE=ON ..
